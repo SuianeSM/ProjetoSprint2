@@ -44,22 +44,6 @@ parcialmente aceita, - parcialmente rejeitada, - totalmente rejeitada.
 
 A interpretação é chave --- e exige nuance, não chute.
 
-## 📂 Dataset
-
-Arquivo: `/datasets/music_project_en.csv`
-
-### **Dicionário de Dados**
-
-  Coluna     Descrição
-  ---------- -----------------------------------------------
-  `userID`   Identificador único do usuário
-  `Track`    Nome da faixa
-  `artist`   Artista
-  `genre`    Gênero musical
-  `City`     Cidade do usuário
-  `time`     Horário em que a música foi tocada (HH:MM:SS)
-  `Day`      Dia da semana
-
 ## 🚀 Resultado Esperado
 
 Ao final, você deve ter: - Uma base limpa. - Um teste de hipótese
